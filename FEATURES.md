@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/laserline-os-workspace features/laserline-os-plan features/laserline-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for laser cutting design:
+
+1. **GIMP** — org.gimp.GIMP
+2. **Krita** — org.kde.krita
+3. **Kdenlive** — org.kde.kdenlive
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.

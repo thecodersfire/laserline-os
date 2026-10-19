@@ -24,3 +24,9 @@ The `laserline.svg` wallpaper is original. Laserline OS is an independent Ubuntu
 
 See [FEATURES.md](FEATURES.md) for three local tools included for laser cutting design.
 
+
+The installer also includes three purpose-specific applications: **GIMP, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
