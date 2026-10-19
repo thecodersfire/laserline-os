@@ -39,3 +39,25 @@ The setup installs these ten Flathub apps selected for laser cutting design:
 10. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
 
 Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
+
+## Fifteen more purpose-specific preinstalled applications
+
+These applications add tools suited to this setup focus. They are installed from Flathub by the setup scripts.
+
+1. **LibreCAD** (org.librecad.librecad) — draft precise 2D technical drawings.
+2. **QElectroTech** (org.qelectrotech.QElectroTech) — draw electrical schematics and wiring diagrams.
+3. **Pixelorama** (com.orama_interactive.Pixelorama) — draw pixel-art sprites and frame-based animations.
+4. **Synfig Studio** (org.synfig.SynfigStudio) — create vector-based 2D animations.
+5. **OpenToonz** (io.github.OpenToonz) — produce hand-drawn and cutout 2D animation.
+6. **digiKam** (org.kde.digikam) — catalog, tag, and batch-process large photo collections.
+7. **RawTherapee** (com.rawtherapee.RawTherapee) — develop RAW photo files with tone and color controls.
+8. **Shotwell** (org.gnome.Shotwell) — import, sort, and make quick edits to photo libraries.
+9. **Xournal++** (com.github.xournalpp.xournalpp) — annotate PDFs and take handwritten notes.
+10. **JabRef** (org.jabref.jabref) — organize BibTeX references and research citations.
+11. **GeoGebra Classic** (org.geogebra.GeoGebra) — explore geometry, algebra, graphing, and 3D math.
+12. **MuseScore Studio** (org.musescore.MuseScore) — write, play back, and print sheet music.
+13. **PrusaSlicer** (com.prusa3d.PrusaSlicer) — prepare models for 3D printing.
+14. **OpenSCAD** (org.openscad.OpenSCAD) — model parametric 3D parts in code.
+15. **KiCad** (org.kicad.KiCad) — design circuits and PCBs.
+
+Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
