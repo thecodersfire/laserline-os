@@ -37,3 +37,20 @@ org.musescore.MuseScore
 com.prusa3d.PrusaSlicer
 org.openscad.OpenSCAD
 org.kicad.KiCad
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.gwenview
+org.kde.kolourpaint
+org.kde.okular
+org.kde.kdevelop
+org.kde.kate
+org.kde.kcalc
+org.kde.dolphin
+org.kde.ark
+org.kde.filelight
+io.github.flattool.Warehouse
+org.gnome.meld
+org.kde.kdiff3
+com.github.flxzt.rnote
+org.kde.kamoso
+org.kde.konsole

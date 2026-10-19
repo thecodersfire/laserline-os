@@ -61,3 +61,25 @@ These applications add tools suited to this setup focus. They are installed from
 15. **KiCad** (org.kicad.KiCad) — design circuits and PCBs.
 
 Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
+
+## Fifteen further purpose-specific preinstalled applications
+
+This second batch adds another set of apps selected for this setup’s purpose. They are installed from Flathub by the setup scripts.
+
+1. **Gwenview** (org.kde.gwenview) — review image sets and make quick crop, resize, and annotation edits.
+2. **KolourPaint** (org.kde.kolourpaint) — make quick raster sketches, labels, and simple image edits.
+3. **Okular** (org.kde.okular) — read, bookmark, and annotate technical drawings, reading lists, and reference PDFs.
+4. **KDevelop** (org.kde.kdevelop) — edit, navigate, build, and debug software projects.
+5. **Kate** (org.kde.kate) — edit configuration, code, notes, and structured project files.
+6. **KCalc** (org.kde.kcalc) — run scientific and unit calculations for coursework or technical work.
+7. **Dolphin** (org.kde.dolphin) — organize project assets and inspect folders.
+8. **Ark** (org.kde.ark) — open and create common project archive files.
+9. **Filelight** (org.kde.filelight) — find large folders and reclaim disk space.
+10. **Warehouse** (io.github.flattool.Warehouse) — review installed Flatpaks, manage versions, and clean app data.
+11. **Meld** (org.gnome.meld) — compare and merge source files, folders, and Git changes.
+12. **KDiff3** (org.kde.kdiff3) — compare and merge source files and directory trees.
+13. **Rnote** (com.github.flxzt.rnote) — sketch diagrams, write by hand, and annotate pictures or documents.
+14. **Kamoso** (org.kde.kamoso) — capture webcam photos and short video clips.
+15. **Konsole** (org.kde.konsole) — run shell commands and inspect development or system tasks.
+
+Game frontends do not include proprietary game data; add only games or files you are allowed to use.
